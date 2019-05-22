@@ -32,3 +32,13 @@
 2019.4.27-2019.5.3   所有成员完善细节
 
 2019.5.4-2019.5.10   整合所有部分并讨论细节更改
+
+## 五、相关链接
+
+https://github.com/CatherineDianaZhang/Time-app/blob/master/Timemory.pptx
+
+https://github.com/CatherineDianaZhang/Time-app/blob/master/Timemory.wmv
+
+https://github.com/CatherineDianaZhang/Time-app/blob/master/%E4%B8%BB%E8%A6%81%E6%96%B9%E6%B3%95%E4%B8%8E%E6%8A%80%E6%9C%AF.docx
+
+https://github.com/CatherineDianaZhang/Time-app/blob/master/%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81.docx
